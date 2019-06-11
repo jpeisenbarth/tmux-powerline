@@ -6,9 +6,9 @@ copy_mode_text="COPY"
 normal_mode_text="NORMAL"
 separator="✤"
 
-prefix_mode_fg="colour226"
-normal_mode_fg="colour16"
-copy_mode_fg="colour82"
+prefix_mode_fg="colour253"
+normal_mode_fg="colour253"
+copy_mode_fg="colour253"
 bg="colour33"
 
 run_segment() {
